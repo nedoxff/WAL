@@ -1,0 +1,5 @@
+import 'cpp/iostream';
+
+fn print(obj) {
+    unsafe { cout << obj << endl; }
+}

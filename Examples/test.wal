@@ -1,0 +1,5 @@
+fn get_string() {
+    return "Hello, world!";
+}
+
+print(get_string());

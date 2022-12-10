@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+# please dont ask
+External/BuildEnvironment/**
+Generator/WALo.g4
+Examples/*.cpp
+Examples/build
